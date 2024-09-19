@@ -6,6 +6,7 @@ import java.sql.Statement;
 
 public class DeleteQuery
 {
+	// delete the data
 	private static final String DM_URL="jdbc:mysql://localhost:3306/BOOK";
 	private static final String DM_USERNAME="root";
 	private static final String DM_USERPASSWORD="6267496475";
